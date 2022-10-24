@@ -1,4 +1,22 @@
 {
+  "name": "nodecg-assignment3",
+  "description": "Assignment 3 in the Node.js tutorial.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorSago/NodeCG-Assignment3.git"
+  },
+  "author": "Victor Sago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorSago/NodeCG-Assignment3/issues"
+  },
+  "homepage": "https://github.com/VictorSago/NodeCG-Assignment3#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
